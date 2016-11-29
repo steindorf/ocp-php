@@ -2,7 +2,7 @@
  <head>
  </head>
  <body>
- <?php echo 'Version 9.9-2: '; ?>
+ <?php echo 'Version 9.0: '; ?>
  <?php echo $_SERVER['SERVER_ADDR']; ?>
  </body>
 </html>
