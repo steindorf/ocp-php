@@ -2,8 +2,8 @@
  <head>
  </head>
  <body>
- <?php echo 'App version 9.5: '; ?>
+ <?php echo 'App version: 9.5. Pod IP: '; ?>
  <?php echo $_SERVER['SERVER_ADDR']; ?>
- <?php echo phpversion('tidy'); ?>
+ <?php echo ' PHP version: ' . phpversion(); ?>
  </body>
 </html>
