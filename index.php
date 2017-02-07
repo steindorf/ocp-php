@@ -2,7 +2,7 @@
  <head>
  </head>
  <body>
- <?php echo 'App Version: 9.5. Pod IP: '; ?>
+ <?php echo 'App Version: 9.6. Pod IP: '; ?>
  <?php echo $_SERVER['SERVER_ADDR']; ?>
  <?php echo ' PHP Version: ' . phpversion(); ?>
  </body>
